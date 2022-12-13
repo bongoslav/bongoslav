@@ -8,11 +8,11 @@
 class Developer:
     
     def __init__(self):    
-        self.learning = ['Python', 'Django', 'PostgreSQL']
+        self.learning = ["Python", "Django", "PostgreSQL"]
         self.desired_fields = ["Web development", "Automation"]
         self.learning_queue = ["Javascript", "NodeJS", "HTML/CSS", "Bash"]
         self.education = ["Softuni", "Technical University of Sofia"]
-        self.hobbies = ["Reading books", "Gym"]
+        self.hobbies = ["Reading books", "Motorcycles", "Gym"]
 
 me = Developer()
 ```
@@ -30,3 +30,5 @@ me = Developer()
 - [Steve Jobs](https://www.goodreads.com/review/show/4432463215?utm_medium=api&utm_source=rss) by Walter Isaacson (⭐⭐⭐⭐⭐)
 - [Чужденецът](https://www.goodreads.com/review/show/4416645128?utm_medium=api&utm_source=rss) by Albert Camus (⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
+
+

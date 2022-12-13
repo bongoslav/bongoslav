@@ -19,7 +19,7 @@ me = Developer()
 
 ### Books I'm currently reading 📚
 <!-- GOODREADS-LIST:START -->
-
+- [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/review/show/5114378436?utm_medium=api&utm_source=rss) by Robert C. Martin (⭐️4.39)
 <!-- GOODREADS-LIST:END -->
 
 ### Last 5 Books I've Read 🤓

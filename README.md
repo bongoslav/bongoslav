@@ -24,5 +24,9 @@ me = Developer()
 
 ### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
-
+- [How to Win Friends and Influence People](https://www.goodreads.com/review/show/4432459962?utm_medium=api&utm_source=rss) by Dale Carnegie (⭐⭐⭐⭐⭐)
+- [Why We Sleep: Unlocking the Power of Sleep and Dreams](https://www.goodreads.com/review/show/4251769743?utm_medium=api&utm_source=rss) by Matthew Walker (unrated)
+- [Sapiens: A Brief History of Humankind](https://www.goodreads.com/review/show/4543375894?utm_medium=api&utm_source=rss) by Yuval Noah Harari (⭐⭐⭐⭐)
+- [Steve Jobs](https://www.goodreads.com/review/show/4432463215?utm_medium=api&utm_source=rss) by Walter Isaacson (⭐⭐⭐⭐⭐)
+- [Чужденецът](https://www.goodreads.com/review/show/4416645128?utm_medium=api&utm_source=rss) by Albert Camus (⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->

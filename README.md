@@ -19,7 +19,6 @@ me = Developer()
 
 ### Books I'm currently reading 📚
 <!-- GOODREADS-LIST:START -->
-- [Code: The Hidden Language of Computer Hardware and Software](https://www.goodreads.com/review/show/5163090815?utm_medium=api&utm_source=rss) by Charles Petzold (⭐️4.4)
 - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/review/show/5114378436?utm_medium=api&utm_source=rss) by Robert C. Martin (⭐️4.39)
 <!-- GOODREADS-LIST:END -->
 

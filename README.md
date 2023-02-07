@@ -1,18 +1,22 @@
-## Hi there! I'm Borislav <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px" height="24px">
+<p align="center">
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px"> Hi, I'am Borislav
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/borislav-borisov99/) 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=bongoslav.bongoslav)](https://github.com/bongoslav)
-[![GitHub](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=Github&logoColor=white)](https://github.com/bongoslav)
+<h2 align="center">:pick: Used Tools :hammer_and_pick:</h2>
 
-```python
-class Student:
-    
-    def __init__(self):    
-        self.learning = ["Python", "Django", "SQL"]
-        self.desired_fields = ["Web development", "Automation"]
-        self.learning_queue = ["Javascript", "HTML/CSS", "Bash"]
-        self.education = ["Softuni", "Technical University of Sofia"]
-        self.hobbies = ["Books", "Motorcycles", "Gym"]
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,python,django,html,css,postgresql,mongodb,docker"/>
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,vim,linux,git" />
+</p>
 
-me = Student()
-```
+<!-- <div align="center"><p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bongoslav&show_icons=true&locale=en&layout=compact" alt="bongoslav" /> -->
+
+### <h3 align="center">:mailbox_with_mail: Connect with me:</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/borislav-borisov99/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+</p>

@@ -1,4 +1,4 @@
-<h2 align="center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px"> Hi, I'm Borislav</h2> 
+<h2 align="center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">Hey there!</h2> 
 
 <h2 align="center">:pick: Used Tools :hammer_and_pick:</h2>
 

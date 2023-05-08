@@ -3,7 +3,7 @@
 <h2 align="center">:pick: Used Tools :hammer_and_pick:</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,ts,python,html,css,postgresql,mongodb"/>
+  <img src="https://skillicons.dev/icons?i=js,nodejs,ts,python,html,css,react,postgresql,mongodb"/>
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,vim,linux,git" />

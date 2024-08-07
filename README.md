@@ -2,11 +2,11 @@
 
 ```json
 {
-  "Backend": ["TypeScript", "Node.js", "Express", "Koa"],
-  "Database": ["SQL", "noSQL", "PostgreSQL", "MongoDB"],
-  "Frontend": ["HTML", "CSS", "JavaScript"],
+  "Backend": ["TypeScript", "Express", "Koa"],
+  "Database": ["SQL", "NoSQL", "PostgreSQL", "MongoDB"],
+  "Frontend": ["React.js", "RadixUI", "JavaScript"],
   "Others": ["Python", "Docker", "Redis", "Microservices"],
-  "Testing": ["Jest", "Jenkins", "Playwright", "Gherkin"],
+  "Testing": ["Jest", "Playwright", "Gherkin"],
   "Blockchain": ["Solidity", "Foundry"],
   "Tools": ["Git", "UNIX", "Vim"],
 }
